@@ -8,17 +8,17 @@ I am a **Data Science Student** at Cakrawala University who thrives on connectin
 
 Here is a selection of my core self-hosted systems, data pipelines, and architectural frameworks:
 
-### 🌐 [Systems Integration: Automated Workshop Registration]([https://github.com](https://github.com/LeroyChris/telegram-event-registration-n8n))
+### 🌐 [Systems Integration: Automated Workshop Registration](https://github.com/LeroyChris/telegram-event-registration-n8n)
 - **What it is:** A self-hosted backend automation state machine architecture handling asynchronous user registrations.
 - **Tech Stack:** n8n, Docker, Cloudflare Tunnels, Supabase/PostgreSQL.
 - **Key Highlight:** Bypassed API payload limits via composite tracking keys and secured the container network natively without opening public inbound ports.
 
-### 🏥 [Data Pipelines: Hospital Appointment No-Show Analytics]([https://github.com](https://github.com/LeroyChris/hospital-no-show-data-wrangling))
+### 🏥 [Data Pipelines: Hospital Appointment No-Show Analytics](https://github.com/LeroyChris/hospital-no-show-data-wrangling)
 - **What it is:** An end-to-end data wrangling and exploratory analytics pipeline to process administrative healthcare logs.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
 - **Key Highlight:** Engineered a modular pipeline using reusable functions (`def`) to isolate behavioral trends across 391,800+ total patient records.
 
-### 📚 [Software Foundations: Object-Oriented Library CLI]([https://github.com](https://github.com/LeroyChris/library-management-system-oop))
+### 📚 [Software Foundations: Object-Oriented Library CLI](https://github.com/LeroyChris/library-management-system-oop)
 - **What it is:** A native terminal system handling book inventory and multi-tier member transactions.
 - **Tech Stack:** Pure Python 3.x (Zero third-party packages).
 - **Key Highlight:** Implemented encapsulation, inheritance, polymorphism, and abstraction alongside manual implementations of Binary Search \(O(\log n)\) and Bubble Sort from scratch.
