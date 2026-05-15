@@ -11,5 +11,3 @@ DS Undergrad working on ML & Analysis
 ![](https://github-readme-stats.vercel.app/api?username=LeroyChris&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LeroyChris&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyChris&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
